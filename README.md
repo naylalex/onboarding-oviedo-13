@@ -71,3 +71,10 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
   Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+
+## Práctica en clase
+* Bash
+* Navegación
+* Notas de Markdown 
+[Google](https://www.google.com.mx/)
